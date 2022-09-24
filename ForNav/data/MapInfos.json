@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Map","order":1,"parentId":0,"scrollX":1946.3999999999999,"scrollY":1088.3999999999999},
+{"id":2,"expanded":false,"name":"Maison","order":2,"parentId":1,"scrollX":648.8,"scrollY":362.8},
+{"id":3,"expanded":false,"name":"Sous-Sol","order":3,"parentId":2,"scrollX":648.8,"scrollY":362.8},
+{"id":4,"expanded":false,"name":"1er Etage","order":4,"parentId":2,"scrollX":0,"scrollY":0},
+{"id":5,"expanded":false,"name":"Hall","order":5,"parentId":1,"scrollX":648.8,"scrollY":362.8}
+]
